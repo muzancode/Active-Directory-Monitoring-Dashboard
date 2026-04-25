@@ -9,6 +9,14 @@ This project builds a Windows Server Active Directory environment from scratch,
 simulates a brute force attack against domain accounts, captures real Windows 
 Security Event logs, and visualises the results in a custom monitoring dashboard.
 
+## Screenshots
+
+### Security Monitoring Dashboard
+![Dashboard](dashboard.png)
+
+### Active Directory Environment
+![Active Directory Environment](ADServer.png)
+
 ## Environment
 
 | Component | Details |
