@@ -15,7 +15,7 @@ Security Event logs, and visualises the results in a custom monitoring dashboard
 ![Dashboard](Dashboard.png)
 
 ### Active Directory Environment
-![ADServer](ADServer.png)
+![Server](Server.png)
 
 ## Environment
 
