@@ -12,7 +12,7 @@ Security Event logs, and visualises the results in a custom monitoring dashboard
 ## Screenshots
 
 ### Security Monitoring Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Active Directory Environment
 ![ADServer](ADServer.png)
